@@ -43,7 +43,7 @@ This database project was developed for a comprehensive system to manage medical
 
 16. **Prescricao**: Registers medical prescriptions, including data such as associated attendance, prescribed medication, presentation, dosage, frequency, and treatment duration.
 
-## Entity-Relationship Diagram (DER)
+### Entity-Relationship Diagram (DER)
 
 ![Entity-Relationship Diagram](https://github.com/guiipedroso/health_plan/blob/main/Diagrama%20ER%20de%20banco%20de%20dados%20(Plano%20de%20Sa%C3%BAde).svg)
 
