@@ -1,5 +1,10 @@
 # Database Project: Medical and Employee Management System
 
+<p align="center">
+  <img src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=ORANGE&style=for-the-badge"/>
+  <img src="http://img.shields.io/static/v1?label=postgresql&message=12.x&color=blue&style=for-the-badge&logo=postgresql"/>
+</p>
+
 This database project was developed for a comprehensive system to manage medical and employee information within an institution. It utilizes SQL and PostgreSQL to ensure a robust and scalable structure.
 
 ## Database Structure
