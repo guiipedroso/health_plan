@@ -5,20 +5,6 @@
   <img src="http://img.shields.io/static/v1?label=postgresql&message=12.x&color=blue&style=for-the-badge&logo=postgresql"/>
 </p>
 
-## Topics
-
-:small_blue_diamond: [Introduction](#introduction)
-
-:small_blue_diamond: [Database Structure](#database-structure)
-
-:small_blue_diamond: [Tables](#main-tables)
-
-:small_blue_diamond: [Functions](#functions)
-
-:small_blue_diamond: [How to Use](#how-to-use)
-
-## Introduction 
-
 This database project was developed for a comprehensive system to manage medical and employee information within an institution. It utilizes SQL and PostgreSQL to ensure a robust and scalable structure.
 
 ## Database Structure
