@@ -43,6 +43,12 @@ This database project was developed for a comprehensive system to manage medical
 
 16. **Prescricao**: Registers medical prescriptions, including data such as associated attendance, prescribed medication, presentation, dosage, frequency, and treatment duration.
 
+## Entity-Relationship Diagram (DER)
+
+![Entity-Relationship Diagram](https://github.com/guiipedroso/health_plan/blob/main/Diagrama%20ER%20de%20banco%20de%20dados%20(Plano%20de%20Sa%C3%BAde).svg)
+
+Here is the Entity-Relationship Diagram (DER) for the Medical and Employee Management System database project. It illustrates the main entities of the system and their relationships.
+
 ### Functions
 
 - **update_Medical_Service**: A function that automatically updates the plan type in a medical service based on the patient's plan type. This function is triggered before insertion into Medical_Service.
